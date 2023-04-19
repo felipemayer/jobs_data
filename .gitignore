@@ -1,0 +1,7 @@
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/
+
+job-tracker-384222-84c152151770.json
